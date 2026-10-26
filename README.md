@@ -14,7 +14,11 @@ corpus; notebook chunk ids are unchanged so app-side sync state survives.
 
 | notebook | kind | items |
 |---|---|---:|
-| `dan-john` | collection | 6 |
+| `dan-john-kettlebell` | collection | 9 |
+
+> Note: the former `dan-john` notebook was renamed and restructured — the
+> 10,000 Swing Challenge is now one note per week. Note ids are path-derived,
+> so this resets app-side sync state for this seed once.
 
 ## Layout
 
